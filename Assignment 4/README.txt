@@ -1,0 +1,32 @@
+
+README: EE450 Socket Programming Project Part 2
+===============================================
+
+NAME        : PARTH SHRIVASTAVA
+USCUserName : parthshr
+USC ID      : 1824596991
+EMAIL       : parthshr@usc.edu
+
+
+About the assignment
+--------------------
+
+I have used https://beej.us/guide/bgnet/html to use socket programming concepts like accept, socket, connect, using getaddressinfo api to get started with the project.  
+
+I have used map to store the state with the list of list of user ids as the value. 
+
+
+Reading Files : Please use the same directory to insert the input text file.    
+
+
+Details of the code files
+-------------------------
+1. serverA.cpp
+2. serverB.cpp
+3. servermain.cpp
+4. client.cpp
+
+
+If you have any questions, please feel free to contact me over email.
+
+
